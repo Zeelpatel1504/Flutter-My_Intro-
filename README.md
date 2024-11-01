@@ -1,4 +1,4 @@
-#Overview#:
+Overview:
 
 This project implements a Profile Information Page for a hypothetical social networking application, developed using the Flutter framework. The page displays static user information organized into visually distinct sections like Contact Information, Education, Projects, and Skills. The primary goal of this assignment is to experiment with different Flutter layout widgets while following good coding practices, such as separating data from layout.
 
